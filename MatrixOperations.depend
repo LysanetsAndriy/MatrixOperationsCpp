@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1673568241 source:e:\1 курс\ag_mining\projects\matrixoperations\main.c
+
+1681558895 source:e:\1 курс\ag_mining\projects\matrixoperations\matrixoperations.cpp
+	<iostream>
+	<cmath>
+	<random>
+	<ctime>
+	<chrono>
+	<fstream>
+	"MatrixOperations.h"
+
+1681498565 e:\1 курс\ag_mining\projects\matrixoperations\matrixoperations.h
+	<cmath>
+	<fstream>
+
+1682157538 source:d:\rlv\static_libraries\matrixoperations\matrixoperations.cpp
+	<iostream>
+	<cmath>
+	<random>
+	<ctime>
+	<chrono>
+	<fstream>
+	"MatrixOperations.h"
+
+1682157530 d:\rlv\static_libraries\matrixoperations\matrixoperations.h
+	<cmath>
+	<fstream>
+
